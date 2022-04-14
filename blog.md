@@ -1,1 +1,3 @@
 ## About Me
+Hello, I'm Avadh Patel, and I'm Computer Science undergrad student at University of Illinios at Chicago.
+A tech nerd and cinephilia. I grew up watching movies and shows like Mr.Bean, Jurassic Park and Harry Potter to name few. And I am primarily inspired to purse the computer science from my father, bill gates, mark zuckerberg and steve jobs ( I know, but still). I think, I am kind of born at the specific time period, I have witness many changes as i grew up from internet, smartphones, AI, AR and lots more. My goal in my freshman year is to focus on which type of technology i want to purse and I will be becoming my journey solely focus on that one technology. 
