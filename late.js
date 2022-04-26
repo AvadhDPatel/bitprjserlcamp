@@ -2,10 +2,12 @@
 date = new Date()
 
 function running_late(date) {
-    if (date >= "December 17, 1995 22:00:00") {    //checking the condition 
+    if (date >= "December 17, 1995 22:00:00") 
+    {    //checking the condition 
         return "It is still early!"     
     }
-    else {
+    else 
+    {
         return "It is late!"
     }
         
