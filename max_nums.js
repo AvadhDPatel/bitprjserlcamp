@@ -1,8 +1,9 @@
 // start coding your function here!
 function find_max(arr)
 {
-    maxn = arr.max();
-    
+
+    var maxn = Math.max(arr) ;        //maximum number
+  
     return maxn; //returns the maximum number in an array.
 }
 
