@@ -2,7 +2,7 @@
 function find_max(arr)
 {
 
-    var maxn = Number.MIN_VALUE;        //maximum number
+    var maxn = 0;        //maximum number
   
     for(var i=0;i<arr.length;i++)
     {
